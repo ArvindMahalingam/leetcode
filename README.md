@@ -28,9 +28,14 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0415-add-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
