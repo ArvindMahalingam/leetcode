@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/ArvindMahalingam/leetcode/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0415-add-strings) |
 ## Simulation
 |  |
@@ -40,6 +41,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/ArvindMahalingam/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/ArvindMahalingam/leetcode/tree/master/0290-word-pattern) |
 ## Two Pointers
 |  |
 | ------- |
