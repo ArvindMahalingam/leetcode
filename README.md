@@ -26,12 +26,14 @@
 | ------- |
 | [0202-happy-number](https://github.com/ArvindMahalingam/leetcode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0415-add-strings) |
+| [1927-sum-game](https://github.com/ArvindMahalingam/leetcode/tree/master/1927-sum-game) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ArvindMahalingam/leetcode/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0415-add-strings) |
+| [1927-sum-game](https://github.com/ArvindMahalingam/leetcode/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
@@ -50,4 +52,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ArvindMahalingam/leetcode/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/ArvindMahalingam/leetcode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/ArvindMahalingam/leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
