@@ -15,7 +15,8 @@ class Solution(object):
             
             if root is None:
                 return []
-            queue=deque([root])
+            queue=deque()
+            queue.append(root)
             
            
             while queue:
