@@ -83,6 +83,7 @@
 | [0178-rank-scores](https://github.com/ArvindMahalingam/leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/ArvindMahalingam/leetcode/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/ArvindMahalingam/leetcode/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/ArvindMahalingam/leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/ArvindMahalingam/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ArvindMahalingam/leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ArvindMahalingam/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
