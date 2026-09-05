@@ -109,6 +109,7 @@
 | [1193-monthly-transactions-i](https://github.com/ArvindMahalingam/leetcode/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/ArvindMahalingam/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/ArvindMahalingam/leetcode/tree/master/1251-average-selling-price) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/ArvindMahalingam/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/ArvindMahalingam/leetcode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ArvindMahalingam/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/ArvindMahalingam/leetcode/tree/master/1484-group-sold-products-by-the-date) |
