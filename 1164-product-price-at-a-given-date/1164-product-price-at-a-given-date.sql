@@ -1,22 +1,6 @@
-SELECT P.product_id,
-       COALESCE(M.price, 10) AS price
-FROM
-(
-    SELECT DISTINCT product_id
-    FROM Products
-) AS P
-LEFT JOIN
-(
-    SELECT P1.product_id, P1.new_price AS price
-    FROM Products P1
-    JOIN
-    (
-        SELECT product_id, MAX(change_date) AS meow
-        FROM Products
-        WHERE change_date <= '2019-08-16'
-        GROUP BY product_id
-    ) AS M
-    ON P1.product_id = M.product_id
-    AND P1.change_date = M.meow
-) AS M
-ON P.product_id = M.product_id;
+select distinct D.product_id,COALESCE(J.price,10) as price from  Products D left join
+(select P.product_id,P.new_price as price from Products P join
+(select product_id,max(change_date) as dd from Products where change_date<='2019-08-16' group by product_id)
+as date_match
+on P.product_id=date_match.product_id and P.change_date=date_match.dd) as J
+on J.product_id=D.product_id;
