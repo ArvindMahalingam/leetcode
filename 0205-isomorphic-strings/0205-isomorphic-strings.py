@@ -2,25 +2,29 @@ class Solution(object):
     def isIsomorphic(self, s, t):
         """
         :type s: str
-        :type t: str
+   return False
+        match1={}
+        match2={}
+        for       :type t: str
         :rtype: bool
         """
         if len(s) != len(t):
             return False
-        match1={}
-        match2={}
-        for chars,chart in zip(s,t):
-            if chars in match1:
-                if match1[chars] !=chart:
+        n=len(s)
+        mp1={}
+        mp2={}
+        for i in range(n):
+            if s[i] in mp1:
+                if mp1[s[i]] != t[i]:
                     return False
             else:
-                match1[chars]=chart
+                mp1[s[i]]=t[i]
             
-            if chart in match2:
-                if match2[chart] !=chars:
+            if t[i] in mp2:
+                if mp2[t[i]] != s[i]:
                     return False
             else:
-                    match2[chart]=chars
+                mp2[t[i]]=s[i]
         return True
         
         
