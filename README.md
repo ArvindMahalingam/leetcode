@@ -54,6 +54,7 @@
 | [0001-two-sum](https://github.com/ArvindMahalingam/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/ArvindMahalingam/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/ArvindMahalingam/leetcode/tree/master/0290-word-pattern) |
 ## Two Pointers
 |  |
@@ -137,4 +138,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArvindMahalingam/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
