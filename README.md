@@ -51,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ArvindMahalingam/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/ArvindMahalingam/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ArvindMahalingam/leetcode/tree/master/0290-word-pattern) |
@@ -132,4 +133,8 @@
 | [1934-confirmation-rate](https://github.com/ArvindMahalingam/leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ArvindMahalingam/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ArvindMahalingam/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ArvindMahalingam/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
