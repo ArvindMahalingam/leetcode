@@ -5,13 +5,11 @@ class Solution(object):
         :rtype: int
         """
         prefix=0
-        n=len(nums)
-        if sum(nums[1:])==0:
-            return 0
-        for i in range(1,n):
-            prefix+=nums[i-1]
-            right=sum(nums[i+1:])
-            if prefix==right:
+        total=sum(nums)
+        for i in range(len(nums)):
+            right=total-nums[i]-prefix
+
+            if right==prefix:
                 return i
-        return -1
-        
+            prefix+=nums[i]
+        return -1        
