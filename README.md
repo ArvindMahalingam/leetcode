@@ -42,6 +42,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/ArvindMahalingam/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ArvindMahalingam/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ArvindMahalingam/leetcode/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0415-add-strings) |
 | [1927-sum-game](https://github.com/ArvindMahalingam/leetcode/tree/master/1927-sum-game) |
@@ -57,6 +58,7 @@
 | [0202-happy-number](https://github.com/ArvindMahalingam/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ArvindMahalingam/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ArvindMahalingam/leetcode/tree/master/0290-word-pattern) |
 ## Two Pointers
 |  |
@@ -147,4 +149,5 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/ArvindMahalingam/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ArvindMahalingam/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
