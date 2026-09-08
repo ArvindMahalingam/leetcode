@@ -5,21 +5,24 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
+        map1={}
+        map2={}
         words=s.split()
         if len(pattern) != len(words):
             return False
-        match1={}
-        match2={}
-        for charp,word in zip(pattern,words):
-            if charp in match1:
-                if match1[charp] !=word:
+        
+        n=len(words)
+        for i in range(n):
+            if pattern[i] in map1:
+                if map1[pattern[i]] !=words[i]:
                     return False
             else:
-                match1[charp]=word
-            if word in match2:
-                if match2[word] !=charp:
+                    map1[pattern[i]]=words[i]
+            
+            if words[i] in map2:
+                if map2[words[i]] != pattern[i]:
                     return False
             else:
-                match2[word]=charp
+                    map2[words[i]]=pattern[i]
         return True
         
