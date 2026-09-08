@@ -146,6 +146,7 @@
 | [0049-group-anagrams](https://github.com/ArvindMahalingam/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/ArvindMahalingam/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ArvindMahalingam/leetcode/tree/master/0724-find-pivot-index) |
 ## Sorting
 |  |
 | ------- |
@@ -156,4 +157,5 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ArvindMahalingam/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ArvindMahalingam/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
