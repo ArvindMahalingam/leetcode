@@ -56,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ArvindMahalingam/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ArvindMahalingam/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ArvindMahalingam/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/ArvindMahalingam/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ArvindMahalingam/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ArvindMahalingam/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ArvindMahalingam/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArvindMahalingam/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0525-contiguous-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0525-contiguous-array) |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ArvindMahalingam/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ArvindMahalingam/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
