@@ -44,6 +44,7 @@
 | [0205-isomorphic-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ArvindMahalingam/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ArvindMahalingam/leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ArvindMahalingam/leetcode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0415-add-strings) |
 | [1927-sum-game](https://github.com/ArvindMahalingam/leetcode/tree/master/1927-sum-game) |
 ## Simulation
@@ -60,6 +61,7 @@
 | [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArvindMahalingam/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ArvindMahalingam/leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ArvindMahalingam/leetcode/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArvindMahalingam/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -161,4 +163,8 @@
 | [0525-contiguous-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArvindMahalingam/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ArvindMahalingam/leetcode/tree/master/0724-find-pivot-index) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ArvindMahalingam/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
