@@ -5,16 +5,17 @@ class Solution(object):
         :rtype: bool
         """
         visited=set()
+
         
-        while n!=1:
-            value=0
+        while (n != 1):
+            square=0
             visited.add(n)
             for i in str(n):
-                value+=int(i)**2
-            n=value
-            if value in visited:
+                square+=int(i)**2
+            n=square
+            if n in visited:
                 return False
-
         return True
+            
 
         
