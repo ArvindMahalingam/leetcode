@@ -154,6 +154,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ArvindMahalingam/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0525-contiguous-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArvindMahalingam/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/ArvindMahalingam/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ArvindMahalingam/leetcode/tree/master/0724-find-pivot-index) |
 ## Sorting
 |  |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ArvindMahalingam/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ArvindMahalingam/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
