@@ -152,6 +152,7 @@
 | [0035-search-insert-position](https://github.com/ArvindMahalingam/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ArvindMahalingam/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ArvindMahalingam/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArvindMahalingam/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0525-contiguous-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0525-contiguous-array) |
@@ -187,5 +188,6 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArvindMahalingam/leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/ArvindMahalingam/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
