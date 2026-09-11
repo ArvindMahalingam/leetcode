@@ -153,6 +153,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArvindMahalingam/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ArvindMahalingam/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ArvindMahalingam/leetcode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/ArvindMahalingam/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
@@ -202,4 +203,12 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArvindMahalingam/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ArvindMahalingam/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ArvindMahalingam/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
