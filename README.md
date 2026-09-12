@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ArvindMahalingam/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ArvindMahalingam/leetcode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/ArvindMahalingam/leetcode/tree/master/0415-add-strings) |
 | [1927-sum-game](https://github.com/ArvindMahalingam/leetcode/tree/master/1927-sum-game) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ArvindMahalingam/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ArvindMahalingam/leetcode/tree/master/0070-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindMahalingam/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -222,4 +224,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindMahalingam/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ArvindMahalingam/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
