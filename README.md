@@ -163,6 +163,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ArvindMahalingam/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ArvindMahalingam/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ArvindMahalingam/leetcode/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/ArvindMahalingam/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindMahalingam/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArvindMahalingam/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -215,6 +216,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ArvindMahalingam/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ArvindMahalingam/leetcode/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/ArvindMahalingam/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindMahalingam/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
