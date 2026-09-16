@@ -172,6 +172,7 @@
 | [0724-find-pivot-index](https://github.com/ArvindMahalingam/leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/ArvindMahalingam/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindMahalingam/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0941-valid-mountain-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0941-valid-mountain-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArvindMahalingam/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
