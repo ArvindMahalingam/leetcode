@@ -9,7 +9,8 @@ class Solution(object):
         first=-1
         last=-1
         left=0
-        right=len(nums)-1
+        n=len(nums)
+        right=n-1
         while(left<=right):
             mid=(left+right)//2
             if nums[mid]==target:
@@ -20,7 +21,7 @@ class Solution(object):
             else:
                 right=mid-1
         left=0
-        right=len(nums)-1
+        right=n-1
         while(left<=right):
             mid=(left+right)//2
             if nums[mid]==target:
@@ -31,4 +32,3 @@ class Solution(object):
             else:
                 right=mid-1
         return [first,last]
-       
