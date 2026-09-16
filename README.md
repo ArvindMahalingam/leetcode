@@ -173,6 +173,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/ArvindMahalingam/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArvindMahalingam/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0941-valid-mountain-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ArvindMahalingam/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArvindMahalingam/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -187,6 +188,7 @@
 | [0525-contiguous-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArvindMahalingam/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ArvindMahalingam/leetcode/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ArvindMahalingam/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ArvindMahalingam/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ArvindMahalingam/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Union-Find
 |  |
 | ------- |
