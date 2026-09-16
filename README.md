@@ -66,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/ArvindMahalingam/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ArvindMahalingam/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ArvindMahalingam/leetcode/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArvindMahalingam/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArvindMahalingam/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -162,6 +163,7 @@
 | [0213-house-robber-ii](https://github.com/ArvindMahalingam/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArvindMahalingam/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArvindMahalingam/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ArvindMahalingam/leetcode/tree/master/0704-binary-search) |
@@ -175,6 +177,7 @@
 | [0049-group-anagrams](https://github.com/ArvindMahalingam/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArvindMahalingam/leetcode/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
