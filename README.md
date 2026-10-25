@@ -159,6 +159,7 @@
 | [0041-first-missing-positive](https://github.com/ArvindMahalingam/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ArvindMahalingam/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ArvindMahalingam/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/ArvindMahalingam/leetcode/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/ArvindMahalingam/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ArvindMahalingam/leetcode/tree/master/0198-house-robber) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ArvindMahalingam/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ArvindMahalingam/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/ArvindMahalingam/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArvindMahalingam/leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArvindMahalingam/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -248,4 +250,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArvindMahalingam/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ArvindMahalingam/leetcode/tree/master/0509-fibonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ArvindMahalingam/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
